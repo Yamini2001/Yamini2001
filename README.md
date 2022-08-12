@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
--    I'm currently working on **[CRUD-Application] 
+-    I'm currently working on **[Bus Tracker app ] 
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
