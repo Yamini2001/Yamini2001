@@ -1,21 +1,21 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yamini</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm BeSingular Technologist</h1>
+<h3 align="center">🌐 I thrive at the intersection of innovation and technology, working diligently to reshape the digital landscape.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **xyz.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 -    I'm currently working on **[Bus Tracker app ] 
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
-- 📫 How to reach me **yaminikhurana2001@gmail.com**
+- 📫 How to reach me **besingulardemo@gmail.com**
 
 - ⚡ Fun fact **I love to learn and sing**
 
