@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm BeSingular Technologist</h1>
-<h3 align="center">🌐 I thrive at the intersection of innovation and technology, working diligently to reshape the digital landscape.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yamini Khurana</h1>
+<h3 align="center">I am passionate Software Developer</h3>
 
 
 ## 🙋‍♂️ About Me
