@@ -17,7 +17,19 @@
   
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
-<!-- ## 🚀 Languages and Tools: -->
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/yamini-khurana-4934b61b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/@YaminiKhrana5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/yaminikhurana2001/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+
+
+ ## 🚀 Languages and Tools: 
 
  <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
