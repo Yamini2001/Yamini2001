@@ -24,7 +24,7 @@
 <a href = "https://www.linkedin.com/in/yamini-khurana-4934b61b1/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/@YaminiKhrana5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/yaminikhurana2001/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://dribbble.com/Yamini2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Yamini2001" height="70" width="90" /></a>
+<a href="https://dribbble.com/Yamini2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Yamini2001" height="70" width="80" /></a>
 
 </p>
 
