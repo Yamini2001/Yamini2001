@@ -7,11 +7,10 @@
 
 
 ## 🙋‍♂️ About Me
-
-<!-- - 🔭 I’m currently working on **[Habit Tracker App]** -->
+- 🔭 I’m currently working on **[Habit Tracker App]** 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 
+ 
 - ✅ Linkedin Profile Link: https://www.linkedin.com/in/yamini-khurana-4934b61b1/
 
 - 📫 How to reach me **yaminikhurana2001@gmail.com**
