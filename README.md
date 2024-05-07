@@ -7,7 +7,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[E-commerce Website Clone App]** 
+- 🔭 I’m currently working on **[MERN Portfolio App]** 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
