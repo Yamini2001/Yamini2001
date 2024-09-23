@@ -7,7 +7,8 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **✈️ AI Trip Planner** 
+- 🔭 I’m currently working on **![image](https://github.com/user-attachments/assets/e7ac9f1b-ce5c-47c2-81ec-5f557c3e5290)
+Doctor Appointment System App** 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
