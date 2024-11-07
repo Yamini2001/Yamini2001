@@ -7,7 +7,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **👨‍⚕️ Doctor Appointment System App** 
+- 🔭 I’m currently working on **Document Capture Tool** 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
