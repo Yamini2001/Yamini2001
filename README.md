@@ -7,11 +7,11 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **Document Capture Tool** 
+- 🔭 I’m currently working on **AI-Portfolio** 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
-- ✅ Linkedin Profile Link: https://www.linkedin.com/in/yamini-khurana-4934b61b1/
+- ✅ LinkedIn Profile Link: https://www.linkedin.com/in/yamini-khurana-4934b61b1/
 
 - 📫 How to reach me **yaminikhurana2001@gmail.com**
   
