@@ -9,11 +9,11 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **AI-Portfolio** 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Python with R Programming**
  
 - ✅ LinkedIn Profile Link: https://www.linkedin.com/in/yamini-khurana-4934b61b1/
 
-- 📫 How to reach me **yaminikhurana2001@gmail.com**
+- 📫 How to reach me: **yaminikhurana2001@gmail.com**
   
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
