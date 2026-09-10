@@ -17,11 +17,9 @@
 
 ### 🚀 Technical Core Stack
 
-[![Python](https://shields.io)](https://python.org)
-[![Apache Spark](https://shields.io)](https://apache.org)
-[![React](https://shields.io)](https://react.dev)
-[![Next.js](https://shields.io)](https://nextjs.org)
-[![MongoDB](https://shields.io)](https://mongodb.com)
+- **Big Data & Pipelines:** Apache Spark, Hadoop, HDFS, ETL Architecture, Linux Systems
+- **Frontend & Visualization:** React.js, Next.js, Redux, Tailwind CSS
+- **Backend & Databases:** Node.js, Express.js, MongoDB, SQL, Python Programming
 
 
 ---
