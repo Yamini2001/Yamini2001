@@ -1,16 +1,29 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="275px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yamini Khurana</h1>
-<h3 align="center">I am passionate ReactJS Developer</h3>
+<h3 align="center">Data Engineer & Frontend Developer | PGCP-BDA Candidate @ C-DAC Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yamini2001&label=Profile%20views&color=0e75b6&style=flat" alt="Yamini2001" /> </p>
 
 
 
-## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **AI-Portfolio** 
 
-- 🌱 I’m currently learning **Python with R Programming**
- 
+## 🙋‍♂️ About Me
+<p>Building the bridge between massive, distributed data pipelines and clean, intuitive user interfaces. I specialise in transforming complex data infrastructure into real-time visual intelligence.</p>
+
+### 🚀 Technical Core Stack
+
+- **Big Data & Pipelines:** Apache Spark, Hadoop, HDFS, ETL Architecture, Linux Systems
+- **Frontend & Visualization:** React.js, Next.js, Redux, Tailwind CSS
+- **Backend & Databases:** Node.js, Express.js, MongoDB, SQL, Python Programming
+
+---
+
+### 🛠️ Current Focus & Projects
+- 🎓 **C-DAC Bangalore:** Actively engineering scalable analytics architectures and pipeline optimization scripts.
+- 💻 **UI Dashboarding:** Integrating streaming data engines with modular React components for interactive visualization.
+
+---
+### 🌐 Let's Connect!
 - ✅ LinkedIn Profile Link: https://www.linkedin.com/in/yamini-khurana-4934b61b1/
 
 - 📫 How to reach me: **yaminikhurana2001@gmail.com**
