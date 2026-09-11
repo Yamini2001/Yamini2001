@@ -33,6 +33,7 @@
 - ✅ LinkedIn Profile Link: https://www.linkedin.com/in/yamini-khurana-4934b61b1/
 
 - 📫 How to reach me: **yaminikhurana2001@gmail.com**
+- Portfolio Link: https://ai-portfolio-5bccsc88j-tech-team3.vercel.app/
   
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
 
